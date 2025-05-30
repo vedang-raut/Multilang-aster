@@ -11,7 +11,7 @@ from backend.chatbot import get_chatbot_response
 
 st.set_page_config(
     page_title="Multilingual NLP Assistant", 
-    page_icon="🌍", 
+    page_icon="❄️", 
     layout="wide",
     initial_sidebar_state="expanded"
 )
