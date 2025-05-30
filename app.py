@@ -11,7 +11,7 @@ from backend.chatbot import get_chatbot_response
 
 st.set_page_config(
     page_title="Multilingual NLP Assistant", 
-    page_icon="❄️", 
+    page_icon="🌍", 
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -499,7 +499,7 @@ st.markdown("""
 # Header Section
 st.markdown("""
     <div class="main-header fade-in">
-        <h1 class="main-title">🌍 Multilingual NLP Assistant</h1>
+        <h1 class="main-title"> ✈️Multilingual NLP Assistant</h1>
         <p class="main-subtitle">Powered by AI • Speech Recognition • Translation • Sentiment Analysis</p>
     </div>
 """, unsafe_allow_html=True)
