@@ -2,8 +2,6 @@ numpy
 scipy
 librosa
 sounddevice
-wave
-audioop
 pygame
 gtts
 transformers
@@ -13,4 +11,3 @@ pydub
 nltk
 textblob
 typing-extensions
-ffmpeg
